@@ -38,7 +38,7 @@ SunnyVoice is free to use. **SunnyVoice Pro** unlocks extra features, as describ
 Prices are shown in the app, in your local currency, before you buy.
 
 - **Payment** is charged to your Apple ID when you confirm the purchase. Apple handles all payments; we never see your payment details.
-- **Renewal:** a subscription renews automatically for the same period and price unless you turn auto-renew off at least 24 hours before the end of the current period. Your Apple ID is charged within the 24 hours before renewal.
+- **Renewal:** a subscription renews automatically for the same period and price unless you turn auto-renew off at least 24 hours before the end of the current period. Your Apple ID is charged within the 24 hours before renewal. If a renewal payment fails, Apple retries it. Pro may continue for a short grace period while Apple retries; if payment still fails, Pro pauses (nothing is deleted) until a payment succeeds or you subscribe again.
 - **Free trial:** if you start a trial, you won't be charged until it ends. Cancel at least 24 hours before it ends to avoid being charged. Any unused part of a trial ends when you buy a subscription.
 - **Managing and cancelling:** in SunnyVoice, Settings › Subscription › Manage subscription, or in your iPhone's Settings › your name › Subscriptions. Cancelling stops the next renewal; Pro continues until the end of the period you have paid for.
 - **Refunds** are handled by Apple under Apple's policies, at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds ourselves.
