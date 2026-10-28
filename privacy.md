@@ -4,7 +4,7 @@
 
 _Last updated: 29 October 2026_
 
-**Contact:** support email coming soon
+**Contact:** [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)
 
 SunnyVoice is a voice journal for iPhone. You talk, it writes down what you said and reflects on it. What you say in a journal is about as private as anything gets, so SunnyVoice is built so that **we never receive it and cannot read it.**
 
@@ -107,4 +107,4 @@ If this policy changes, the date at the top changes with it and the revised poli
 
 ## Contact
 
-Questions about privacy: support email coming soon
+Questions about privacy: [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)

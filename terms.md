@@ -2,9 +2,9 @@
 
 [SunnyVoice home](./) · [Privacy Policy](privacy) · [Support](support)
 
-_Last updated: 28 October 2026_
+_Last updated: 29 October 2026_
 
-**Contact:** support email coming soon
+**Contact:** [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)
 
 ## 1. The license
 
@@ -62,4 +62,4 @@ SunnyVoice is provided under the Standard EULA, including its sections on **no w
 
 ## 9. Contact
 
-Questions about these terms: support email coming soon
+Questions about these terms: [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)

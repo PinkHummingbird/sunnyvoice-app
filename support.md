@@ -2,7 +2,7 @@
 
 [SunnyVoice home](./) · [Privacy Policy](privacy) · [Terms of Use](terms)
 
-Questions, bug reports or feedback: support email coming soon
+Questions, bug reports or feedback: [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)
 
 SunnyVoice is a voice journal for iPhone. Talk for a minute; it writes down what you said and reflects on it, all on your iPhone. There is no account, no server of ours and no data collection. Your journal syncs only to your own private iCloud.
 
