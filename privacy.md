@@ -2,7 +2,7 @@
 
 [SunnyVoice home](./) · [Terms of Use](terms) · [Support](support)
 
-_Last updated: 28 October 2026_
+_Last updated: 29 October 2026_
 
 **Contact:** support email coming soon
 
@@ -14,7 +14,7 @@ SunnyVoice is a voice journal for iPhone. You talk, it writes down what you said
 - **No servers of ours.** SunnyVoice has no backend. We hold no copy of anything you say, write or record.
 - **Everything is worked out on your iPhone.** Transcription, the safety check and the reflections all run on the device, and keep working in airplane mode once the speech model is on your iPhone.
 - **Your journal syncs only to your own private iCloud**, through Apple. Only someone signed in with your Apple ID can read it — not us.
-- **Your words are encrypted on your iPhone before they go to iCloud.** See [What goes to your iCloud](#what-goes-to-your-icloud).
+- **Your words and recordings are encrypted on your iPhone before they go to iCloud.** See [What goes to your iCloud](#what-goes-to-your-icloud).
 - **No tracking, no ads, no analytics, no crash reporters**, and no third-party service of any kind. The app talks only to Apple.
 - **App Privacy label: Data Not Collected.** Data in your own private iCloud is not collected by us: we have no way to read it.
 
@@ -34,11 +34,11 @@ The journal is stored in the app's database on your iPhone. If your iPhone backs
 SunnyVoice keeps your journal in sync across your devices through Apple's iCloud. It is on by default when you are signed in to iCloud, and you can turn it off in Settings › iCloud.
 
 - **Where it goes:** the **private** database of your own iCloud account, in SunnyVoice's container, through Apple's CloudKit. Only someone signed in with your Apple ID can read it. We, the developer, have no access to your private iCloud data. SunnyVoice never uses iCloud's public or shared databases.
-- **Your words are encrypted on your iPhone before upload:** transcripts, your edits, titles, themes, tags and reflections.
+- **Your words and recordings are encrypted on your iPhone before upload:** transcripts, your edits, titles, themes, tags, reflections and recordings.
 - **Stored without that extra encryption:** moods (including one you pick yourself), scores, dates, durations, favorites, safety flags, which guided prompt an entry answered, whether and when you completed a small step, your ratings of small steps, and whether an entry is in the trash or waiting to be reflected on again. They still have iCloud's standard protection in transit and at rest.
-- **Recordings** sync to your iCloud unless you turn off "Sync recordings". They have iCloud's standard protection, not the extra encryption your words get. About 240 KB per minute of recording counts against your iCloud storage. You can also choose to delete recordings after transcription, in Settings › Recording.
+- **Recordings** sync to your iCloud unless you turn off "Sync recordings". They are encrypted on your iPhone before upload, like your words. About 240 KB per minute of recording counts against your iCloud storage. You can also choose to delete recordings after transcription, in Settings › Recording.
 - **Some settings and small markers** sync through iCloud's key-value storage, so your devices behave the same: for example reminder times, reflection style, recording retention, "Sync recordings", haptics, "How you spoke" and "Color entries by mood"; whether the note shown with your first reflection was seen; how many times and when the Pro offer appeared by itself; and up to which entry the small-step check-in was handled. None of them contains your words.
-- **Advanced Data Protection:** if you turn it on for your Apple ID, your words (the encrypted fields above) are end-to-end encrypted, and only your trusted devices hold the keys. The fields stored without that extra encryption keep iCloud's standard protection even with Advanced Data Protection on. Without it, Apple holds keys to your encrypted words too, so that it can help you recover your data. See [Apple's iCloud data security overview](https://support.apple.com/en-us/102651).
+- **Advanced Data Protection:** if you turn it on for your Apple ID, your words and recordings (the encrypted fields above) are end-to-end encrypted, and only your trusted devices hold the keys. The fields stored without that extra encryption keep iCloud's standard protection even with Advanced Data Protection on. Without it, Apple holds keys to your encrypted words and recordings too, so that it can help you recover your data. See [Apple's iCloud data security overview](https://support.apple.com/en-us/102651).
 - **iCloud Drive copies (Pro, off until you turn them on):** "Mirror to iCloud Drive" writes your entries as plain Markdown files into a SunnyVoice folder in your iCloud Drive, so you can open them in Files. They are ordinary files: the extra encryption and the app lock do not apply to them. Turning the mirror off, or Pro ending, stops the files updating but does not remove them; delete them in Files, or use "Delete all iCloud data…". While the mirror is on, deleting an entry removes its file.
 - **Turning sync off** keeps the copy already in your iCloud. **"Delete all iCloud data…"** in Settings removes everything SunnyVoice keeps in your iCloud — entries, recordings, iCloud Drive copies and synced settings. One small marker (a random ID and a date, no journal content) stays in iCloud's key-value storage, so your other devices know to pause and ask you instead of uploading again.
 
