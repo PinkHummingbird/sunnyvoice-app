@@ -2,7 +2,7 @@
 
 [SunnyVoice home](./) · [Terms of Use](terms) · [Support](support)
 
-_Last updated: 20 October 2026_
+_Last updated: 28 October 2026_
 
 **Contact:** support email coming soon
 
@@ -35,9 +35,9 @@ SunnyVoice keeps your journal in sync across your devices through Apple's iCloud
 
 - **Where it goes:** the **private** database of your own iCloud account, in SunnyVoice's container, through Apple's CloudKit. Only someone signed in with your Apple ID can read it. We, the developer, have no access to your private iCloud data. SunnyVoice never uses iCloud's public or shared databases.
 - **Your words are encrypted on your iPhone before upload:** transcripts, your edits, titles, themes, tags and reflections.
-- **Stored without that extra encryption:** moods (including one you pick yourself), scores, dates, durations, favourites, safety flags, which guided prompt an entry answered, whether and when you completed a small step, your ratings of small steps, and whether an entry is in the trash or waiting to be reflected on again. They still have iCloud's standard protection in transit and at rest.
+- **Stored without that extra encryption:** moods (including one you pick yourself), scores, dates, durations, favorites, safety flags, which guided prompt an entry answered, whether and when you completed a small step, your ratings of small steps, and whether an entry is in the trash or waiting to be reflected on again. They still have iCloud's standard protection in transit and at rest.
 - **Recordings** sync to your iCloud unless you turn off "Sync recordings". They have iCloud's standard protection, not the extra encryption your words get. About 240 KB per minute of recording counts against your iCloud storage. You can also choose to delete recordings after transcription, in Settings › Recording.
-- **Some settings and small markers** sync through iCloud's key-value storage, so your devices behave the same: for example reminder times, reflection style, recording retention, "Sync recordings", haptics, "How you spoke" and "Colour entries by mood"; whether the note shown with your first reflection was seen; how many times and when the Pro offer appeared by itself; and up to which entry the small-step check-in was handled. None of them contains your words.
+- **Some settings and small markers** sync through iCloud's key-value storage, so your devices behave the same: for example reminder times, reflection style, recording retention, "Sync recordings", haptics, "How you spoke" and "Color entries by mood"; whether the note shown with your first reflection was seen; how many times and when the Pro offer appeared by itself; and up to which entry the small-step check-in was handled. None of them contains your words.
 - **Advanced Data Protection:** if you turn it on for your Apple ID, your words (the encrypted fields above) are end-to-end encrypted, and only your trusted devices hold the keys. The fields stored without that extra encryption keep iCloud's standard protection even with Advanced Data Protection on. Without it, Apple holds keys to your encrypted words too, so that it can help you recover your data. See [Apple's iCloud data security overview](https://support.apple.com/en-us/102651).
 - **iCloud Drive copies (Pro, off until you turn them on):** "Mirror to iCloud Drive" writes your entries as plain Markdown files into a SunnyVoice folder in your iCloud Drive, so you can open them in Files. They are ordinary files: the extra encryption and the app lock do not apply to them. Turning the mirror off, or Pro ending, stops the files updating but does not remove them; delete them in Files, or use "Delete all iCloud data…". While the mirror is on, deleting an entry removes its file.
 - **Turning sync off** keeps the copy already in your iCloud. **"Delete all iCloud data…"** in Settings removes everything SunnyVoice keeps in your iCloud — entries, recordings, iCloud Drive copies and synced settings. One small marker (a random ID and a date, no journal content) stays in iCloud's key-value storage, so your other devices know to pause and ask you instead of uploading again.
@@ -58,7 +58,7 @@ Widgets, the Lock Screen, notifications and Siri can be seen by anyone who can s
 
 "Lock with Face ID" and "Hide in app switcher" are free and off until you turn them on. iOS does the checking with Face ID, Touch ID or your passcode; SunnyVoice only learns yes or no, and never sees your face, your fingerprint or your passcode.
 
-While app lock is on, a strongly blurred, warm-tinted cover hides SunnyVoice in the app switcher (solid if Reduce Transparency is on); widgets show only your streak and the Record button; your entries are taken out of iPhone Search; Siri says only "Open SunnyVoice to see your week."; and the Live Activity shows the timer without the level meter. When the lock engages it closes an entry you have open, including its share sheet. App lock does not cover the iCloud Drive copies in Files.
+While app lock is on, a strongly blurred, warm-tinted cover hides SunnyVoice in the app switcher (solid if Reduce Transparency is on); widgets show only your streak and the Record button; your entries are taken out of iPhone Search; Siri says only "Open SunnyVoice to see your week."; and the Live Activity shows the timer and a flat level meter. When the lock engages it closes an entry you have open. App lock does not cover the iCloud Drive copies in Files.
 
 ## Purchases
 
@@ -74,7 +74,7 @@ With Pro, you can export your whole journal as Markdown, JSON or PDF through the
 
 ## Deleting your data
 
-- **An entry:** when you delete one, you can undo it for 30 seconds. After that it disappears from the app on all your devices, and it is permanently removed the next time SunnyVoice runs its clean-up (when you open the app or a change arrives from iCloud).
+- **An entry:** when you delete one, you can undo it for 30 seconds. After that it disappears from the app on all your devices, and it is permanently removed the next time SunnyVoice runs its clean-up (after a change arrives from another of your devices, or when sync is switched on or off).
 - **All entries:** Settings › Privacy & data › "Delete all entries…" removes every entry and recording from this iPhone and, with iCloud sync on, from your other devices too.
 - **Everything in iCloud:** Settings › iCloud › "Delete all iCloud data…". This iPhone's entries stay unless you delete them too.
 - **Everything on the iPhone:** deleting the app deletes everything it stored on the device. If you want your iCloud copy gone as well, use "Delete all iCloud data…" first, or later go to your iPhone's Settings › your name › iCloud › Manage Storage.

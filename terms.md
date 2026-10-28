@@ -2,11 +2,11 @@
 
 [SunnyVoice home](./) · [Privacy Policy](privacy) · [Support](support)
 
-_Last updated: 20 October 2026_
+_Last updated: 28 October 2026_
 
 **Contact:** support email coming soon
 
-## 1. The licence
+## 1. The license
 
 SunnyVoice is licensed to you under **Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)** (the "Standard EULA"). The Standard EULA is the agreement that governs your use of the app. The points below explain how it applies to SunnyVoice and add a few things specific to a journal app. If anything here conflicts with the Standard EULA, the Standard EULA wins.
 
@@ -40,7 +40,7 @@ Prices are shown in the app, in your local currency, before you buy.
 - **Payment** is charged to your Apple ID when you confirm the purchase. Apple handles all payments; we never see your payment details.
 - **Renewal:** a subscription renews automatically for the same period and price unless you turn auto-renew off at least 24 hours before the end of the current period. Your Apple ID is charged within the 24 hours before renewal. If a renewal payment fails, Apple retries it. Pro may continue for a short grace period while Apple retries; if payment still fails, Pro pauses (nothing is deleted) until a payment succeeds or you subscribe again.
 - **Free trial:** if you start a trial, you won't be charged until it ends. Cancel at least 24 hours before it ends to avoid being charged. Any unused part of a trial ends when you buy a subscription.
-- **Managing and cancelling:** in SunnyVoice, Settings › Subscription › Manage subscription, or in your iPhone's Settings › your name › Subscriptions. Cancelling stops the next renewal; Pro continues until the end of the period you have paid for.
+- **Managing and canceling:** in SunnyVoice, Settings › Subscription › Manage subscription, or in your iPhone's Settings › your name › Subscriptions. Canceling stops the next renewal; Pro continues until the end of the period you have paid for.
 - **Refunds** are handled by Apple under Apple's policies, at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds ourselves.
 - **Restoring:** "Restore purchases" in Settings › Subscription restores Pro on a device signed in to the same Apple ID.
 - **If Pro ends,** nothing you made is deleted. Pro features pause until you subscribe again.
