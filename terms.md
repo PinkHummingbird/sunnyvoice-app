@@ -2,7 +2,7 @@
 
 [SunnyVoice home](./) · [Privacy Policy](privacy) · [Support](support)
 
-_Last updated: 29 October 2026_
+_Last updated: 5 November 2026_
 
 **Contact:** [sunnyvoice.app.support@gmail.com](mailto:sunnyvoice.app.support@gmail.com)
 
@@ -32,14 +32,13 @@ Sync, recordings in iCloud and the iCloud Drive copies are provided by Apple's i
 
 SunnyVoice is free to use. **SunnyVoice Pro** unlocks extra features, as described in the app. It is offered as:
 
-- **Monthly** and **Yearly** auto-renewing subscriptions (the Yearly plan may start with a free trial), and
+- **Monthly**, **Quarterly** and **Annually** auto-renewing subscriptions, and
 - **Lifetime**, a one-time purchase.
 
 Prices are shown in the app, in your local currency, before you buy.
 
 - **Payment** is charged to your Apple ID when you confirm the purchase. Apple handles all payments; we never see your payment details.
 - **Renewal:** a subscription renews automatically for the same period and price unless you turn auto-renew off at least 24 hours before the end of the current period. Your Apple ID is charged within the 24 hours before renewal. If a renewal payment fails, Apple retries it. Pro may continue for a short grace period while Apple retries; if payment still fails, Pro pauses (nothing is deleted) until a payment succeeds or you subscribe again.
-- **Free trial:** if you start a trial, you won't be charged until it ends. Cancel at least 24 hours before it ends to avoid being charged. Any unused part of a trial ends when you buy a subscription.
 - **Managing and canceling:** in SunnyVoice, Settings › Subscription › Manage subscription, or in your iPhone's Settings › your name › Subscriptions. Canceling stops the next renewal; Pro continues until the end of the period you have paid for.
 - **Refunds** are handled by Apple under Apple's policies, at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds ourselves.
 - **Restoring:** "Restore purchases" in Settings › Subscription restores Pro on a device signed in to the same Apple ID.
